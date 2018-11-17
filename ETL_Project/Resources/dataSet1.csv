@@ -1,0 +1,500 @@
+ID,First Name,Last Name,Gender,Does Ski,Preffered Ski Resort,Buys Ski Pass
+1,Todd,Lopez,M,no,Telluride,no
+2,Joshua,White,M,yes,Breckenridge,no
+3,Mary,Lewis,F,yes,Keystone,yes
+4,Emily,Burns,F,no,A-Basin,no
+5,Christina,Romero,F,yes,Aspen,no
+6,Raymond,Andrews,M,yes,Copper Mountain,no
+7,Sandra,Baker,F,yes,Aspen,no
+8,Todd,Diaz,M,yes,Steamboat,no
+9,Alice,Burke,F,no,Telluride,no
+10,Wayne,Richards,M,yes,Keystone,yes
+11,Brian,Hansen,M,no,Vail,no
+12,Johnny,Tucker,M,yes,Breckenridge,yes
+13,Ronald,Wheeler,M,yes,Breckenridge,yes
+14,John,Turner,M,yes,Telluride,no
+15,Steven,Reynolds,M,yes,A-Basin,no
+16,Pamela,Carpenter,F,yes,Copper Mountain,yes
+17,Stephen,Scott,M,yes,A-Basin,no
+18,Larry,Ryan,M,no,Telluride,yes
+19,Jeffrey,Marshall,M,no,Aspen,yes
+20,Betty,Fernandez,F,yes,Vail,yes
+21,Howard,Olson,M,yes,Vail,yes
+22,Jose,Riley,M,yes,Copper Mountain,no
+23,Tammy,Woods,F,yes,Loveland Basin,yes
+24,Benjamin,Wells,M,yes,Keystone,yes
+25,Stephen,Gutierrez,M,no,Aspen,no
+26,Mary,Harvey,F,no,Keystone,no
+27,Robin,Ruiz,F,no,Steamboat,yes
+28,Larry,Lee,M,no,Loveland Basin,no
+29,Billy,Welch,M,yes,Crested Butte,yes
+30,Johnny,Cooper,M,no,Breckenridge,yes
+31,Michael,Nichols,M,yes,A-Basin,no
+32,Jennifer,Murray,F,no,Breckenridge,no
+33,Ronald,Gomez,M,yes,Keystone,yes
+34,Robin,Green,F,yes,Keystone,yes
+35,Stephen,Jacobs,M,no,Aspen,no
+36,Alice,Lewis,F,yes,Crested Butte,no
+37,Richard,Griffin,M,yes,Steamboat,no
+38,Mary,Perry,F,yes,Crested Butte,no
+39,Margaret,Dunn,F,no,Steamboat,yes
+40,Lisa,Gardner,F,no,Keystone,no
+41,Margaret,Woods,F,yes,Aspen,yes
+42,Samuel,Gray,M,no,Aspen,yes
+43,Rebecca,Tucker,F,yes,Keystone,no
+44,William,Walker,M,no,Crested Butte,no
+45,Philip,Diaz,M,yes,A-Basin,no
+46,Theresa,Harris,F,no,Loveland Basin,yes
+47,Anthony,Lawrence,M,no,Crested Butte,yes
+48,Antonio,Black,M,no,Breckenridge,no
+49,Paul,Simpson,M,yes,Keystone,yes
+50,Louise,Sims,F,no,Aspen,no
+51,William,Weaver,M,yes,Keystone,yes
+52,Jesse,Cooper,M,no,Steamboat,yes
+53,Jeffrey,Carr,M,yes,A-Basin,no
+54,Deborah,Owens,F,no,Steamboat,no
+55,Marie,Stephens,F,no,Telluride,yes
+56,Patrick,Butler,M,yes,Vail,yes
+57,Evelyn,Matthews,F,no,Telluride,yes
+58,Jonathan,Cox,M,no,Breckenridge,yes
+59,Christina,Brooks,F,yes,Telluride,yes
+60,Brian,Austin,M,no,Steamboat,yes
+61,Daniel,Moore,M,yes,Breckenridge,yes
+62,Larry,Tucker,M,yes,Steamboat,yes
+63,Robin,Hunter,F,yes,Loveland Basin,no
+64,Wayne,Cunningham,M,no,Aspen,no
+65,Anthony,Lane,M,yes,Telluride,yes
+66,Kevin,Montgomery,M,yes,Breckenridge,yes
+67,Ashley,Vasquez,F,no,Telluride,yes
+68,Benjamin,Freeman,M,no,Copper Mountain,yes
+69,Doris,Hernandez,F,no,Aspen,no
+70,Diana,Alexander,F,yes,Copper Mountain,no
+71,Joseph,Pierce,M,yes,Vail,no
+72,Nancy,Mcdonald,F,yes,Aspen,no
+73,Sarah,Kelly,F,no,Steamboat,no
+74,Lois,Foster,F,yes,Vail,no
+75,Alice,Bell,F,no,Keystone,no
+76,Amy,Reynolds,F,no,Vail,yes
+77,Howard,Johnson,M,no,Steamboat,no
+78,Marilyn,Ruiz,F,no,Aspen,yes
+79,Joshua,Bowman,M,no,A-Basin,yes
+80,Elizabeth,Porter,F,yes,Steamboat,no
+81,Fred,Wood,M,no,Vail,no
+82,Bobby,Reid,M,no,Aspen,no
+83,Jonathan,Willis,M,no,Crested Butte,no
+84,Paula,Bishop,F,no,Keystone,yes
+85,Judith,Washington,F,no,Keystone,yes
+86,Marilyn,Gonzales,F,yes,Copper Mountain,no
+87,Theresa,Davis,F,no,Vail,no
+88,Stephanie,Martinez,F,no,Aspen,yes
+89,Justin,Martin,M,no,Keystone,yes
+90,Stephen,Long,M,yes,Copper Mountain,no
+91,Betty,Howell,F,yes,Loveland Basin,yes
+92,Emily,Hawkins,F,no,Crested Butte,yes
+93,Terry,Mcdonald,M,no,Crested Butte,no
+94,Peter,Gomez,M,no,A-Basin,yes
+95,Mary,Knight,F,yes,Crested Butte,yes
+96,Kathryn,Price,F,no,Crested Butte,yes
+97,Rachel,Day,F,yes,Aspen,no
+98,Marie,Bailey,F,no,Copper Mountain,no
+99,Kathy,Flores,F,no,Steamboat,yes
+100,Wanda,Young,F,no,Aspen,yes
+101,Betty,Evans,F,no,A-Basin,no
+102,Randy,Porter,M,no,Keystone,yes
+103,Martha,Cruz,F,no,Keystone,no
+104,Christopher,Chavez,M,yes,Steamboat,yes
+105,Aaron,Barnes,M,yes,Loveland Basin,yes
+106,Jeremy,Coleman,M,yes,Crested Butte,yes
+107,Gloria,Burton,F,yes,A-Basin,yes
+108,Alan,Clark,M,yes,Loveland Basin,no
+109,Amanda,Carter,F,no,Telluride,no
+110,Barbara,Franklin,F,no,Vail,yes
+111,Rose,Ellis,F,yes,A-Basin,no
+112,Norma,Gonzales,F,yes,Crested Butte,no
+113,Edward,Cruz,M,yes,Steamboat,no
+114,Sara,Miller,F,yes,Breckenridge,no
+115,Barbara,Allen,F,yes,Copper Mountain,yes
+116,Melissa,Mcdonald,F,no,Loveland Basin,yes
+117,Andrew,Walker,M,no,A-Basin,no
+118,Jean,Gray,F,yes,Vail,yes
+119,Frances,Mason,F,no,A-Basin,yes
+120,Eugene,Lopez,M,yes,Copper Mountain,no
+121,Dennis,Patterson,M,no,Steamboat,yes
+122,Judith,Stevens,F,yes,Aspen,yes
+123,Andrea,Kim,F,yes,Copper Mountain,no
+124,Betty,Kelley,F,no,Telluride,no
+125,Jeffrey,Richards,M,yes,Telluride,no
+126,Joshua,Robinson,M,no,Telluride,yes
+127,Eric,Hughes,M,yes,Vail,no
+128,Timothy,Welch,M,no,Steamboat,no
+129,Eugene,Washington,M,no,Loveland Basin,no
+130,Ralph,Morgan,M,yes,A-Basin,no
+131,Randy,Lee,M,yes,Crested Butte,yes
+132,Richard,Dean,M,no,Steamboat,no
+133,Henry,Stephens,M,yes,Vail,no
+134,Elizabeth,Stewart,F,no,Loveland Basin,no
+135,Scott,Murphy,M,no,Breckenridge,no
+136,Laura,Fox,F,yes,Vail,no
+137,Nicholas,Scott,M,no,Aspen,no
+138,Jose,Simmons,M,yes,Vail,yes
+139,Phyllis,Riley,F,yes,Loveland Basin,yes
+140,Marie,Thompson,F,no,Vail,no
+141,Bobby,Burton,M,yes,Keystone,no
+142,Carolyn,Kelly,F,no,Breckenridge,yes
+143,Timothy,Cooper,M,yes,Keystone,yes
+144,Sandra,Kelly,F,no,A-Basin,no
+145,Ronald,Bowman,M,no,Aspen,no
+146,Raymond,Barnes,M,yes,Copper Mountain,yes
+147,Brenda,Fuller,F,yes,Crested Butte,yes
+148,Joshua,Brooks,M,no,A-Basin,no
+149,Mildred,Peterson,F,no,Breckenridge,no
+150,Marilyn,Cunningham,F,no,Vail,no
+151,Linda,Fernandez,F,yes,Telluride,yes
+152,Jose,Hanson,M,no,Telluride,no
+153,Henry,Wright,M,yes,Copper Mountain,no
+154,Pamela,Walker,F,yes,Steamboat,no
+155,Stephen,Reed,M,no,A-Basin,no
+156,Robin,Marshall,F,no,Steamboat,no
+157,Gregory,Graham,M,no,Breckenridge,no
+158,Bruce,Lane,M,no,Keystone,yes
+159,Pamela,Parker,F,yes,Loveland Basin,no
+160,Roger,Flores,M,yes,Telluride,no
+161,Linda,Boyd,F,no,Breckenridge,no
+162,Harold,Willis,M,yes,Loveland Basin,yes
+163,Lois,Taylor,F,no,Steamboat,no
+164,Larry,Coleman,M,no,Loveland Basin,yes
+165,Lori,Griffin,F,yes,Loveland Basin,yes
+166,George,Wells,M,no,A-Basin,yes
+167,Sandra,Owens,F,no,Breckenridge,no
+168,Thomas,Coleman,M,yes,Crested Butte,no
+169,Mildred,Greene,F,yes,Crested Butte,no
+170,Larry,Fuller,M,yes,Crested Butte,yes
+171,Adam,George,M,yes,Copper Mountain,yes
+172,Amy,Mills,F,no,Vail,yes
+173,Lois,Woods,F,yes,Crested Butte,yes
+174,Ralph,Mason,M,yes,Keystone,no
+175,Sean,Duncan,M,no,A-Basin,no
+176,Stephen,Hill,M,yes,Breckenridge,yes
+177,Donald,Fuller,M,yes,Telluride,no
+178,Helen,Burton,F,no,Vail,no
+179,Roger,Jordan,M,no,Crested Butte,yes
+180,Earl,Mcdonald,M,yes,A-Basin,yes
+181,Elizabeth,Stanley,F,no,Keystone,no
+182,Lois,Hall,F,yes,Steamboat,yes
+183,Frank,Baker,M,no,Keystone,no
+184,Shirley,Olson,F,no,A-Basin,no
+185,Jack,James,M,no,Vail,no
+186,Jason,Fernandez,M,yes,Aspen,yes
+187,Rachel,Hernandez,F,no,Copper Mountain,yes
+188,Sandra,Stone,F,yes,Steamboat,yes
+189,Debra,Warren,F,yes,A-Basin,no
+190,Michael,Fowler,M,yes,Crested Butte,yes
+191,Larry,Lee,M,no,Telluride,no
+192,Carl,Williamson,M,no,Crested Butte,no
+193,Howard,Lynch,M,yes,Loveland Basin,yes
+194,Annie,Hill,F,yes,Crested Butte,yes
+195,Timothy,Harper,M,no,Breckenridge,no
+196,Paula,Little,F,yes,Breckenridge,no
+197,Annie,Green,F,yes,Crested Butte,yes
+198,Helen,Nguyen,F,no,Aspen,yes
+199,Douglas,Morrison,M,yes,Loveland Basin,no
+200,Joyce,Ramirez,F,no,Vail,yes
+201,Ruth,Howard,F,no,Crested Butte,no
+202,Peter,Cox,M,no,Loveland Basin,no
+203,Lillian,Clark,F,no,Steamboat,no
+204,Patrick,Watkins,M,yes,Crested Butte,yes
+205,Kelly,Robertson,F,no,Vail,no
+206,Timothy,Powell,M,no,Steamboat,yes
+207,Mildred,Sanchez,F,no,Loveland Basin,yes
+208,Ryan,Scott,M,no,Crested Butte,yes
+209,Louise,Sanders,F,yes,Crested Butte,yes
+210,Brenda,Warren,F,yes,Keystone,no
+211,Stephanie,Stevens,F,yes,Telluride,no
+212,Sara,Taylor,F,yes,Telluride,yes
+213,Andrew,Warren,M,no,Breckenridge,yes
+214,Lois,Grant,F,yes,Telluride,no
+215,Heather,Ross,F,yes,Keystone,yes
+216,Stephanie,James,F,no,Telluride,no
+217,Benjamin,Matthews,M,no,Aspen,no
+218,Howard,Jordan,M,yes,Loveland Basin,no
+219,Melissa,Mitchell,F,no,Loveland Basin,no
+220,Ernest,Dean,M,no,Vail,yes
+221,Julie,Lopez,F,yes,Telluride,no
+222,Adam,Murphy,M,yes,Copper Mountain,yes
+223,Debra,Stewart,F,yes,A-Basin,no
+224,Alice,Flores,F,no,Vail,no
+225,Karen,Henderson,F,no,Steamboat,no
+226,Kathleen,Bailey,F,no,Steamboat,yes
+227,Gloria,Murray,F,no,Steamboat,no
+228,Tina,Rose,F,no,Telluride,yes
+229,Wayne,Welch,M,yes,Keystone,no
+230,Donna,Tucker,F,yes,A-Basin,yes
+231,Terry,Bishop,M,no,Copper Mountain,no
+232,Kevin,Woods,M,yes,Aspen,no
+233,Joan,Perez,F,yes,Aspen,yes
+234,Barbara,Berry,F,yes,Keystone,no
+235,Christine,Howell,F,no,Aspen,no
+236,Nancy,Harper,F,no,Vail,no
+237,Gloria,Watson,F,yes,Telluride,yes
+238,Martin,Moore,M,yes,Loveland Basin,no
+239,Antonio,Hanson,M,no,Keystone,no
+240,Wayne,Gardner,M,no,Copper Mountain,no
+241,Kathleen,Lane,F,no,Telluride,yes
+242,Randy,Powell,M,yes,Breckenridge,yes
+243,Cynthia,Gordon,F,no,Aspen,no
+244,Ryan,Morales,M,no,Loveland Basin,yes
+245,Cynthia,Murray,F,yes,Copper Mountain,yes
+246,Antonio,Arnold,M,yes,Breckenridge,yes
+247,Harold,Wells,M,yes,Breckenridge,no
+248,Timothy,Price,M,no,Telluride,yes
+249,Rachel,Morris,F,no,Telluride,no
+250,Susan,Young,F,yes,Aspen,no
+251,Rachel,Crawford,F,yes,Crested Butte,no
+252,Adam,Parker,M,yes,Vail,no
+253,Douglas,Smith,M,no,Aspen,no
+254,Johnny,Williamson,M,no,Copper Mountain,yes
+255,Jose,Burns,M,yes,Breckenridge,no
+256,Louise,Medina,F,no,Keystone,yes
+257,Kenneth,Freeman,M,no,Copper Mountain,no
+258,Marie,Alvarez,F,no,Vail,no
+259,Harold,Stewart,M,yes,Loveland Basin,yes
+260,Gloria,Welch,F,no,Steamboat,no
+261,Carlos,Chavez,M,no,Vail,no
+262,Russell,Hunter,M,no,Vail,yes
+263,Martha,Collins,F,yes,Loveland Basin,yes
+264,Ruth,Hawkins,F,no,Vail,yes
+265,Stephanie,Rodriguez,F,no,Vail,yes
+266,Joseph,Sanchez,M,no,Keystone,no
+267,Keith,Mccoy,M,yes,Crested Butte,yes
+268,Paula,Bennett,F,no,Breckenridge,no
+269,Robin,Owens,F,no,Loveland Basin,no
+270,Gregory,Richardson,M,yes,Copper Mountain,yes
+271,Kathleen,Nguyen,F,no,Crested Butte,yes
+272,Nicole,Dunn,F,no,Loveland Basin,yes
+273,Lawrence,Medina,M,no,Loveland Basin,yes
+274,Eric,Knight,M,yes,Steamboat,yes
+275,Raymond,Chapman,M,yes,Breckenridge,yes
+276,Laura,Sims,F,no,Aspen,yes
+277,Edward,Bell,M,yes,Loveland Basin,yes
+278,Russell,Johnston,M,yes,A-Basin,no
+279,Fred,Parker,M,no,Keystone,no
+280,Kathleen,Hansen,F,yes,Copper Mountain,no
+281,Norma,Alexander,F,no,Aspen,no
+282,Elizabeth,Olson,F,yes,Aspen,yes
+283,Roy,Willis,M,yes,Steamboat,yes
+284,Eric,Wells,M,no,Keystone,yes
+285,Carol,Gilbert,F,yes,Vail,no
+286,Angela,Perry,F,yes,Breckenridge,yes
+287,Judy,Chavez,F,no,Copper Mountain,no
+288,Kenneth,Collins,M,no,Aspen,yes
+289,Howard,Fernandez,M,yes,Copper Mountain,no
+290,Arthur,Mills,M,yes,Steamboat,yes
+291,Diana,George,F,no,Crested Butte,no
+292,Julia,Ellis,F,yes,Loveland Basin,yes
+293,Carolyn,Turner,F,no,Keystone,no
+294,Ralph,Ford,M,no,Telluride,yes
+295,Todd,Wright,M,yes,Breckenridge,no
+296,Norma,Russell,F,yes,Telluride,no
+297,Scott,Nelson,M,no,Telluride,yes
+298,Harry,Bailey,M,no,Aspen,no
+299,Judy,Castillo,F,yes,Keystone,no
+300,Annie,Baker,F,no,Breckenridge,yes
+301,Louise,Bell,F,no,A-Basin,no
+302,Martha,Howard,F,no,Telluride,yes
+303,Kevin,Cole,M,yes,Telluride,no
+304,Theresa,Romero,F,no,Aspen,no
+305,David,Robinson,M,yes,A-Basin,no
+306,Cynthia,Porter,F,no,Loveland Basin,no
+307,Laura,Kim,F,yes,Keystone,no
+308,Julia,Rice,F,yes,Telluride,yes
+309,Eric,Stewart,M,no,Steamboat,no
+310,Diane,Richardson,F,yes,Keystone,no
+311,Frank,Payne,M,no,Loveland Basin,no
+312,Raymond,Lopez,M,yes,Crested Butte,yes
+313,Paula,Wheeler,F,no,Keystone,no
+314,Mildred,Collins,F,yes,Copper Mountain,yes
+315,Daniel,Cruz,M,no,Copper Mountain,yes
+316,Billy,White,M,no,Copper Mountain,no
+317,Robert,Frazier,M,yes,Breckenridge,no
+318,Frances,Day,F,no,Aspen,no
+319,Wanda,Harvey,F,no,Vail,no
+320,Harry,Stephens,M,no,Loveland Basin,yes
+321,Victor,Gardner,M,no,Loveland Basin,yes
+322,Kathleen,Webb,F,no,Keystone,no
+323,Sara,Kim,F,no,Steamboat,yes
+324,Justin,Armstrong,M,yes,A-Basin,yes
+325,Brian,Frazier,M,yes,Loveland Basin,yes
+326,Jerry,Sims,M,no,Loveland Basin,yes
+327,Peter,Wilson,M,yes,Keystone,no
+328,Annie,Cunningham,F,yes,Telluride,yes
+329,Beverly,Fuller,F,yes,Steamboat,no
+330,Henry,Warren,M,yes,Copper Mountain,no
+331,Donna,Kelley,F,yes,Steamboat,yes
+332,Stephen,Olson,M,yes,Telluride,no
+333,Debra,Brooks,F,no,Crested Butte,no
+334,Wanda,Wright,F,yes,Telluride,yes
+335,Ruby,Garza,F,yes,Aspen,no
+336,Marie,Garrett,F,no,Steamboat,no
+337,Phillip,Mcdonald,M,yes,Telluride,yes
+338,Billy,Stevens,M,yes,A-Basin,no
+339,Victor,Spencer,M,no,A-Basin,yes
+340,Louis,Pierce,M,no,Telluride,yes
+341,Jose,James,M,yes,Breckenridge,yes
+342,Lawrence,Willis,M,no,Telluride,yes
+343,Stephanie,Ross,F,no,Vail,yes
+344,Amy,Peters,F,yes,Aspen,no
+345,Richard,Butler,M,no,A-Basin,no
+346,Earl,Sullivan,M,yes,A-Basin,no
+347,Jacqueline,Taylor,F,no,Vail,no
+348,Joe,Wood,M,no,A-Basin,no
+349,Kathryn,Evans,F,no,Telluride,no
+350,Roy,Webb,M,no,Loveland Basin,yes
+351,Joshua,Howell,M,no,Vail,yes
+352,Earl,Bishop,M,yes,Keystone,no
+353,Ronald,Weaver,M,yes,Loveland Basin,yes
+354,Jimmy,Brown,M,yes,Breckenridge,no
+355,Peter,Sanders,M,no,Aspen,yes
+356,Janet,Williams,F,yes,Breckenridge,yes
+357,Janet,Peters,F,no,A-Basin,no
+358,Donald,Castillo,M,yes,Vail,no
+359,Carol,Brooks,F,yes,Breckenridge,no
+360,Helen,Gonzalez,F,yes,Breckenridge,yes
+361,Joyce,Palmer,F,yes,Aspen,yes
+362,Juan,Fowler,M,yes,Aspen,yes
+363,Mary,Vasquez,F,yes,Aspen,yes
+364,Mary,Berry,F,yes,Crested Butte,yes
+365,Martin,Henderson,M,yes,Steamboat,no
+366,Jacqueline,Vasquez,F,no,Keystone,no
+367,Lillian,Thompson,F,no,Aspen,no
+368,Antonio,Fowler,M,yes,Vail,no
+369,Evelyn,Fields,F,yes,Aspen,no
+370,Carol,Alvarez,F,no,Steamboat,yes
+371,Andrea,Romero,F,yes,Steamboat,no
+372,Richard,Henderson,M,no,Copper Mountain,yes
+373,William,Russell,M,yes,Telluride,no
+374,Shirley,Griffin,F,no,Telluride,no
+375,Gregory,Ellis,M,no,Aspen,yes
+376,Ernest,Snyder,M,no,Breckenridge,yes
+377,Lois,Crawford,F,yes,Aspen,yes
+378,Mark,Peterson,M,no,Aspen,yes
+379,David,Flores,M,no,Copper Mountain,no
+380,Lisa,Carpenter,F,yes,A-Basin,yes
+381,Jesse,Fox,M,yes,Vail,no
+382,Lawrence,Jackson,M,yes,Keystone,yes
+383,Lisa,Sims,F,yes,Keystone,no
+384,Philip,George,M,yes,Keystone,no
+385,Thomas,Hawkins,M,no,Copper Mountain,yes
+386,Joshua,Edwards,M,yes,Aspen,no
+387,Victor,Perry,M,no,Breckenridge,no
+388,Janet,Anderson,F,no,Keystone,no
+389,Jesse,Lee,M,no,Telluride,no
+390,Aaron,Cook,M,no,Keystone,yes
+391,James,Mills,M,yes,Aspen,yes
+392,Jean,Cooper,F,yes,Copper Mountain,yes
+393,Steve,Patterson,M,no,Breckenridge,no
+394,Nancy,Ramos,F,yes,Keystone,no
+395,Jack,Scott,M,yes,A-Basin,no
+396,Christine,Rodriguez,F,yes,Steamboat,no
+397,Evelyn,Simpson,F,yes,Steamboat,no
+398,Margaret,Harrison,F,no,Aspen,yes
+399,Johnny,Cox,M,no,Aspen,no
+400,Shirley,Lawson,F,no,Crested Butte,no
+401,Richard,Cooper,M,no,Copper Mountain,yes
+402,Jack,Gray,M,no,Keystone,yes
+403,Linda,Ross,F,no,Steamboat,no
+404,Angela,Gutierrez,F,yes,Steamboat,no
+405,George,Banks,M,yes,Keystone,no
+406,Jennifer,Wells,F,yes,Breckenridge,yes
+407,Kimberly,Hughes,F,no,Keystone,yes
+408,Carl,Garrett,M,no,Keystone,no
+409,Theresa,Parker,F,yes,Copper Mountain,no
+410,Gerald,Stewart,M,no,Telluride,yes
+411,Barbara,Wells,F,no,Breckenridge,no
+412,Chris,Wallace,M,yes,Breckenridge,yes
+413,Matthew,Ortiz,M,no,Keystone,yes
+414,Denise,Chapman,F,yes,Crested Butte,no
+415,Bobby,Burns,M,no,Crested Butte,yes
+416,Scott,Martin,M,no,Crested Butte,yes
+417,Benjamin,Hunter,M,no,Copper Mountain,yes
+418,Andrea,Vasquez,F,yes,Loveland Basin,yes
+419,Roy,Gibson,M,yes,Aspen,no
+420,Gary,Reyes,M,yes,Telluride,yes
+421,Annie,Shaw,F,yes,Aspen,no
+422,Lillian,Porter,F,yes,Loveland Basin,no
+423,Ryan,Nguyen,M,no,Aspen,yes
+424,Robin,Woods,F,no,Copper Mountain,yes
+425,Walter,Fuller,M,no,Aspen,yes
+426,Earl,Burke,M,yes,Vail,yes
+427,Kathy,Ward,F,yes,Crested Butte,yes
+428,Beverly,Burke,F,no,Crested Butte,no
+429,Christine,Ford,F,yes,Telluride,no
+430,Earl,Woods,M,no,Steamboat,yes
+431,Melissa,Sullivan,F,yes,Copper Mountain,yes
+432,Dennis,Scott,M,yes,Loveland Basin,yes
+433,Shawn,Price,M,no,Steamboat,yes
+434,Billy,Perkins,M,no,Crested Butte,yes
+435,Philip,Gilbert,M,no,Crested Butte,no
+436,Sharon,Dunn,F,no,Copper Mountain,yes
+437,Roger,Gutierrez,M,no,Vail,no
+438,Kenneth,Taylor,M,no,Copper Mountain,no
+439,Sharon,Howard,F,yes,Vail,yes
+440,Frank,Marshall,M,no,Breckenridge,yes
+441,Katherine,Wheeler,F,yes,Copper Mountain,yes
+442,Ann,Bradley,F,yes,A-Basin,no
+443,Edward,Henderson,M,no,Crested Butte,no
+444,Douglas,Gray,M,no,Steamboat,no
+445,Alan,Harvey,M,yes,Copper Mountain,yes
+446,Cheryl,Watkins,F,no,Aspen,no
+447,Jerry,Fernandez,M,yes,Copper Mountain,no
+448,Lawrence,Rose,M,no,Copper Mountain,no
+449,Ruby,Morris,F,yes,Steamboat,yes
+450,Virginia,Richards,F,no,A-Basin,no
+451,Jesse,Scott,M,yes,Keystone,yes
+452,Todd,Reyes,M,no,Keystone,yes
+453,Wayne,Howard,M,yes,Crested Butte,no
+454,Doris,Harris,F,no,A-Basin,no
+455,Andrea,Martin,F,no,Copper Mountain,yes
+456,Clarence,Rivera,M,yes,Vail,no
+457,Joan,Lawrence,F,yes,Crested Butte,no
+458,Annie,Hughes,F,yes,Copper Mountain,no
+459,Randy,Watson,M,yes,A-Basin,yes
+460,William,Morris,M,no,A-Basin,yes
+461,Sara,Burton,F,yes,Keystone,no
+462,Patrick,Gomez,M,yes,Loveland Basin,yes
+463,Patricia,Howell,F,no,Copper Mountain,yes
+464,Jerry,Diaz,M,no,Breckenridge,yes
+465,Roy,Stevens,M,no,Loveland Basin,yes
+466,Lillian,Palmer,F,no,Loveland Basin,yes
+467,Terry,Barnes,M,yes,Aspen,no
+468,Karen,Gutierrez,F,yes,Crested Butte,no
+469,George,Marshall,M,yes,Copper Mountain,no
+470,Linda,Lane,F,no,A-Basin,no
+471,Stephen,Diaz,M,no,Aspen,no
+472,Marilyn,Jenkins,F,yes,Aspen,yes
+473,Theresa,Andrews,F,yes,Crested Butte,yes
+474,Wayne,Nguyen,M,no,Keystone,yes
+475,Timothy,Hart,M,no,Telluride,yes
+476,Kathleen,Palmer,F,no,Crested Butte,yes
+477,Nancy,Robinson,F,yes,Copper Mountain,no
+478,Stephen,Phillips,M,no,Steamboat,yes
+479,Deborah,Ross,F,yes,Breckenridge,no
+480,Julia,Gonzalez,F,no,Breckenridge,yes
+481,Rebecca,Simpson,F,yes,Aspen,no
+482,Keith,Grant,M,yes,Crested Butte,no
+483,Victor,Tucker,M,yes,Crested Butte,no
+484,Joan,Patterson,F,yes,Telluride,yes
+485,Bonnie,Sullivan,F,no,A-Basin,yes
+486,Angela,Warren,F,yes,Keystone,no
+487,Daniel,Cunningham,M,yes,Vail,no
+488,Jerry,Peters,M,no,Breckenridge,no
+489,Janice,Kim,F,yes,Crested Butte,yes
+490,Helen,Garza,F,yes,Breckenridge,no
+491,Steve,Kelley,M,yes,Keystone,yes
+492,Martha,Stevens,F,yes,Crested Butte,yes
+493,Kathryn,Harvey,F,yes,A-Basin,no
+494,Amanda,Simpson,F,yes,Keystone,no
+495,Thomas,Medina,M,yes,Vail,yes
+496,Ruby,Peterson,F,yes,Breckenridge,no
+497,Andrea,Garcia,F,yes,Steamboat,no
+498,Christine,Martinez,F,no,Loveland Basin,no
+499,Ruby,Gray,F,yes,Steamboat,yes
