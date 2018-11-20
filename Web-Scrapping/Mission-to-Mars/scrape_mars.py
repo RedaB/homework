@@ -9,12 +9,12 @@ import pandas as pd
 # Creating "Scrape" function
 def scrape():
 
-    #---------------------------------------------------------------------------#
-    ### NASA Mars News ###
-
     # Setting up splinter browser
     executable_path = {"executable_path": "/usr/local/bin/chromedriver"}
     browser = Browser('chrome', **executable_path, headless=False)
+
+    #---------------------------------------------------------------------------#
+    ### NASA Mars News ###
 
     # Setting variable for NASA Mars News site
     url = 'https://mars.nasa.gov/news/'
@@ -33,10 +33,6 @@ def scrape():
     #---------------------------------------------------------------------------#
     ### JPL Mars Space Images - Featured Image ###
 
-    # Setting up splinter browser
-    executable_path = {"executable_path": "/usr/local/bin/chromedriver"}
-    browser = Browser('chrome', **executable_path, headless=False)
-
     # Setting variable for JPL Featured Space Image site
     url = 'https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars'
 
@@ -44,11 +40,11 @@ def scrape():
     browser.visit(url)
 
     # Moving through pages on site
-    time.sleep(5)
+    time.sleep(1)
     browser.click_link_by_partial_text('FULL IMAGE')
-    time.sleep(5)
+    time.sleep(1)
     browser.click_link_by_partial_text('more info')
-    time.sleep(5)
+    time.sleep(1)
 
     # Pulling the html text
     response = browser.html
@@ -64,10 +60,6 @@ def scrape():
 
     #---------------------------------------------------------------------------#
     ### Mars Weather ###
-
-    # Setting up splinter browser
-    executable_path = {"executable_path": "/usr/local/bin/chromedriver"}
-    browser = Browser('chrome', **executable_path, headless=False)
 
     # Setting variable for Mars Weather Twitter Account
     url = 'https://twitter.com/marswxreport?lang=en'
@@ -87,10 +79,6 @@ def scrape():
     
     #---------------------------------------------------------------------------#
     ### Mars Facts ###
-
-    # Setting up splinter browser
-    executable_path = {"executable_path": "/usr/local/bin/chromedriver"}
-    browser = Browser('chrome', **executable_path, headless=False)
 
     # Setting variable for Mars Facts Webpage
     url = 'https://space-facts.com/mars/'
@@ -128,16 +116,12 @@ def scrape():
     # Displaying Dataframe
     mars_facts
 
-    # Covverting Dataframe to html table string
+    # Converting Dataframe to html table string
     html_table = mars_facts.to_html(header=False)
 
 
     #---------------------------------------------------------------------------#
     ### Mars Hemispheres ###
-
-    # Setting up splinter browser
-    executable_path = {"executable_path": "/usr/local/bin/chromedriver"}
-    browser = Browser('chrome', **executable_path, headless=False)
 
     # Setting variable for Mars Facts Webpage
     url = 'https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars'
@@ -170,7 +154,7 @@ def scrape():
 
         # Visiting the link
         browser.visit(link)
-        time.sleep(5)
+        time.sleep(1)
 
         # Retrieving link to image
         page = browser.html
@@ -187,11 +171,12 @@ def scrape():
 
     mars_dict = {
         "news_title": news_title,
-        "news_p": news_p,
-        "featured_image_url": featured_image_url,
-        "mars_weather": mars_weather,
-        "fact_table": html_table,
-        "hemispheres_images": hemisphere_image_urls}
+        "news_paragraph": news_p,
+        "featured_image": featured_image_url,
+        "weather": mars_weather,
+        "facts": html_table,
+        "hemispheres": hemisphere_image_urls}
+    print(mars_dict)
 
 
     return mars_dict
