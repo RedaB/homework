@@ -40,11 +40,11 @@ def scrape():
     browser.visit(url)
 
     # Moving through pages on site
-    time.sleep(1)
+    time.sleep(2)
     browser.click_link_by_partial_text('FULL IMAGE')
-    time.sleep(1)
+    time.sleep(2)
     browser.click_link_by_partial_text('more info')
-    time.sleep(1)
+    time.sleep(2)
 
     # Pulling the html text
     response = browser.html
