@@ -10,7 +10,7 @@ function buildMetadata(sample) {
     d3.json(`/metadata/${sample}`).then(metaData => {
       
       // Using d3 to select the panel with id of `#sample-metadata`
-      let PANEL = d3.select('#sample-metadata');
+      let PANEL = d3.select('sample-metadata');
       
       // Using `.html("")` to clear any existing metadata
       PANEL.html("");
@@ -30,9 +30,9 @@ function buildMetadata(sample) {
 
 
 //Building Buble Chart
-function buildCharts(sample) {
+// function buildCharts(sample) {
 
-  // @TODO: Use `d3.json` to fetch the sample data for the plots
+//   // @TODO: Use `d3.json` to fetch the sample data for the plots
   d3.json(`/samples/${sample}`).then(sampleData => {
     let sampleValues = sampleData.sample_values;
     let otuIds = sampleData.otu_ids;
@@ -66,7 +66,36 @@ function buildCharts(sample) {
     // @TODO: Build a Pie Chart
     // HINT: You will need to use slice() to grab the top 10 sample_values,
     // otu_ids, and labels (10 each).
+// 
+    //  let allLabels = otu_ids;
 
+    // let allValues = sample_values;
+
+    // let data = [{
+    //   values: sample_values,
+    //   labels: otu_ids,
+    //   type: 'pie',
+    //   name: 'Top 10 Samples',
+    //   marker: {
+    //     colors: ultimateColors
+    //   },
+    //   domain: {
+    //     row: 0,
+    //     column: 0
+    //   },
+    //   hoverinfo: 'label+percent+name',
+    //   textinfo: 'none'
+    // }];
+
+    // let layout = {
+    //   height: 400,
+    //   width: 500,
+    //   grid: {rows: 2, columns: 2}
+    // };
+
+    // Plotly.newPlot('myDiv', data, layout);
+
+//
 
 function init() {
   // Grab a reference to the dropdown select element
