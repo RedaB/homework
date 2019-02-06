@@ -40,11 +40,11 @@ def scrape():
     browser.visit(url)
 
     # Moving through pages on site
-    time.sleep(2)
+    time.sleep(4)
     browser.click_link_by_partial_text('FULL IMAGE')
-    time.sleep(2)
+    time.sleep(4)
     browser.click_link_by_partial_text('more info')
-    time.sleep(2)
+    time.sleep(4)
 
     # Pulling the html text
     response = browser.html
@@ -76,7 +76,6 @@ def scrape():
     # Retrieving the latest tweet
     mars_weather = soup.find('p', 'TweetTextSize TweetTextSize--normal js-tweet-text tweet-text').text
 
-    
     #---------------------------------------------------------------------------#
     ### Mars Facts ###
 
@@ -180,7 +179,3 @@ def scrape():
 
 
     return mars_dict
-
-
-
-    

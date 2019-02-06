@@ -111,7 +111,7 @@ function createMap() {
 
     var mymap = L.map('mymap', {
         center: [40, -99],
-        zoom: 4.3,
+        zoom: 3.8,
         layers: [streetMap, earthquakes, plateBoundary]
     });
 

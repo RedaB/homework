@@ -1,0 +1,73 @@
+Last login: Mon Feb  4 07:41:31 on ttys000
+Redas-MacBook-Pro:~ redaboubakri$ ssh gs-user@10.156.129.67
+^C
+Redas-MacBook-Pro:~ redaboubakri$ ssh gs-user@10.156.129.67
+gs-user@10.156.129.67's password: 
+Last login: Tue Jan 29 09:08:46 2019 from md0033.na.westcongrp.com
+[gs-user@wcprod-bluesky-soap ~]$ sudo su - gs-user
+Last login: Mon Feb  4 09:53:07 EST 2019 from 10.52.13.132 on pts/0
+[gs-user@wcprod-bluesky-soap ~]$ cd  $HOME/gitrepo/nimbus4/nimbus-shell/scripts
+[gs-user@wcprod-bluesky-soap scripts]$ ./MigrateSubscriptionBetweenCustomers.sh 7894 102801 103008 19107
+***************************************************************
+Migrating 7894 from 102801 to 103008
+***************************************************************
+Warning: Using a password on the command line interface can be insecure.
+Warning: Using a password on the command line interface can be insecure.
+Warning: Using a password on the command line interface can be insecure.
+"NULL"
+Warning: Using a password on the command line interface can be insecure.
+Warning: Using a password on the command line interface can be insecure.
+Product specification for Reseller Id 19147 not found, Calculating product specification id from product order now...
+Warning: Using a password on the command line interface can be insecure.
+Product specification for Reseller Id 19147 not found, Calculating product specification id from product order now...
+Warning: Using a password on the command line interface can be insecure.
+*****************************************************************************
+Error Occurred : Unable find product specification for reselled Id : 19147
+*****************************************************************************
+Warning: Using a password on the command line interface can be insecure.
+----------------------------------------------------------------------------------------------
+Updating following given data for Product Order and Instance:
+----------------------------------------------------------------------------------------------
+-> Product Order Specification :  -> 
+-> Product Instance Specification :  -> 
+-> Sold To (groupId) (Customer) : 102801 -> 103008
+-> Tenant (Reseller) : 19147 -> 19107
+----------------------------------------------------------------------------------------------
+*************************************************
+Error Occurred : Unable to find data to Migrate!!
+*************************************************
+[gs-user@wcprod-bluesky-soap scripts]$ cd ..
+[gs-user@wcprod-bluesky-soap nimbus-shell]$ cd ..
+[gs-user@wcprod-bluesky-soap nimbus4]$ cd ..
+[gs-user@wcprod-bluesky-soap gitrepo]$ cd ..
+[gs-user@wcprod-bluesky-soap ~]$ cd  $HOME/gitrepo/nimbus4/nimbus-shell/scripts
+[gs-user@wcprod-bluesky-soap scripts]$ ./MigrateSubscriptionBetweenCustomers.sh 7894 102801 103008 19107
+***************************************************************
+Migrating 7894 from 102801 to 103008
+***************************************************************
+Warning: Using a password on the command line interface can be insecure.
+Warning: Using a password on the command line interface can be insecure.
+Warning: Using a password on the command line interface can be insecure.
+"NULL"
+Warning: Using a password on the command line interface can be insecure.
+Warning: Using a password on the command line interface can be insecure.
+Product specification for Reseller Id 19147 not found, Calculating product specification id from product order now...
+Warning: Using a password on the command line interface can be insecure.
+Product specification for Reseller Id 19147 not found, Calculating product specification id from product order now...
+Warning: Using a password on the command line interface can be insecure.
+*****************************************************************************
+Error Occurred : Unable find product specification for reselled Id : 19147
+*****************************************************************************
+Warning: Using a password on the command line interface can be insecure.
+----------------------------------------------------------------------------------------------
+Updating following given data for Product Order and Instance:
+----------------------------------------------------------------------------------------------
+-> Product Order Specification :  -> 
+-> Product Instance Specification :  -> 
+-> Sold To (groupId) (Customer) : 102801 -> 103008
+-> Tenant (Reseller) : 19147 -> 19107
+----------------------------------------------------------------------------------------------
+*************************************************
+Error Occurred : Unable to find data to Migrate!!
+*************************************************
+[gs-user@wcprod-bluesky-soap scripts]$ 
